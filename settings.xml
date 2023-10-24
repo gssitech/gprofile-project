@@ -12,7 +12,7 @@
     <server>
       <id>${RELEASE_REPO}</id>
       <username>${NEXUS_USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <password>${NEXUS_PASS}</password>
     </server>
         <server>
         <id>{CENTRAL_REPO}</id>
